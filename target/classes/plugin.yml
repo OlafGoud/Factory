@@ -1,0 +1,6 @@
+api: ads
+api-version: 1.12.2
+name: GoldCraftMain
+version: 1,0
+main: git.olafgoud.FactoryMain
+depend: [WorldGuard]
